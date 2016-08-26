@@ -67,3 +67,72 @@ D:\Projects\Web\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Micro
 D:\Projects\Web\test\Test Project\Test Project\obj\Debug\Test Project.csprojResolveAssemblyReference.cache
 D:\Projects\Web\test\Test Project\Test Project\obj\Debug\Test Project.dll
 D:\Projects\Web\test\Test Project\Test Project\obj\Debug\Test Project.pdb
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\csc.exe
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\vbc.exe
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Test Project.dll.config
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Test Project.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Test Project.pdb
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Antlr3.Runtime.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\EntityFramework.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\EntityFramework.SqlServer.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Newtonsoft.Json.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Owin.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Helpers.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Mvc.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Optimization.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Razor.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\WebGrease.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Helpers.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Mvc.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Optimization.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.Razor.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Antlr3.Runtime.pdb
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Newtonsoft.Json.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\EntityFramework.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\EntityFramework.SqlServer.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\obj\Debug\Test Project.csprojResolveAssemblyReference.cache
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\obj\Debug\Test Project.dll
+D:\Projects\Web\ASP.NET-MVC-Web-Application\test\Test Project\Test Project\obj\Debug\Test Project.pdb
